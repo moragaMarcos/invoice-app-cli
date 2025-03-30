@@ -5,6 +5,10 @@ Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, 
 
 ---
 
+## Credenciales
+- Email: moraga@finix-group.cl
+- Contraseña: finixgroup@2025
+  
 ## Tecnologías
 
 - Backend: .NET 8 + Entity Framework Core + SQLite
@@ -17,8 +21,6 @@ Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, 
 Iniciar backend https://github.com/moragaMarcos/invoice-app-bk
 
 ## Instalación y Ejecución
-
-### FrontEnd
 
 1. Clonar repositorio
 2. Ir a la carpeta `/frontend`
@@ -33,10 +35,6 @@ Iniciar backend https://github.com/moragaMarcos/invoice-app-bk
      npm start
    ```
 5. Acceder a : http://localhost:5173
-
-6. Credenciales:
-- Email: moraga@finix-group.cl
-- Contraseña: finixgroup@2025
 
 ## Patrones de Diseño Aplicados
 
